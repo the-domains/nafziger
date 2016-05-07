@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Still Lifes
-datePublished: '2016-05-07T23:42:01.258Z'
-dateModified: '2016-05-07T23:41:32.019Z'
+datePublished: '2016-05-07T23:58:30.222Z'
+dateModified: '2016-05-07T23:42:21.863Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-07-still-life.md
@@ -16,7 +16,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: still-life/index.html
 _type: Article
 
