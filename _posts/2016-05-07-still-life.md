@@ -4,11 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Still Life
-datePublished: '2016-05-07T23:41:14.502Z'
-dateModified: '2016-05-07T23:40:42.251Z'
+description: Still Lifes
+datePublished: '2016-05-07T23:42:01.258Z'
+dateModified: '2016-05-07T23:41:32.019Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-07-still-life.md
 authors: []
 publisher:
   name: null
@@ -16,12 +17,11 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-07-still-life.md
 url: still-life/index.html
 _type: Article
 
 ---
-Still Life
+Still Lifes
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/267be42c-501f-4fe0-82ca-a98674da89df.jpg)
 
 Root Crops at the Iowa State Fair 2013
