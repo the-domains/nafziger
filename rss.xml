@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tim Nafziger]]></title>
+        <description><![CDATA[Tim Nafziger]]></description>
+        <link>https://thegrid.ai/nafziger/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 07 May 2016 23:41:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nafziger/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d548b7be-bd8b-4c2d-a986-268d96e2b577.jpg">]]></description>
+            <link>https://thegrid.ai/nafziger/still-life/index.html</link>
+            <guid isPermaLink="false">22a3ab94-af1a-4945-a2ba-e9dc21fcaa5d</guid>
+            <pubDate>Sat, 07 May 2016 23:41:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/88b87384-fc9f-4114-8957-c2d346df7fae.jpg">]]></description>
+            <link>https://thegrid.ai/nafziger/this-is-a-portfolio-site-for-tim-nafziger-featuring-his-work/index.html</link>
+            <guid isPermaLink="false">4c702df6-b7cd-40a9-83f3-04302f0edf8c</guid>
+            <pubDate>Sat, 07 May 2016 23:33:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
