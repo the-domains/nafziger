@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: This is a portfolio site for Tim Nafziger featuring his work as a web developer and photographer.
-datePublished: '2016-05-07T23:33:12.191Z'
-dateModified: '2016-05-07T23:32:43.325Z'
+datePublished: '2016-05-07T23:43:52.408Z'
+dateModified: '2016-05-07T23:35:17.341Z'
 title: ''
 author: []
 authors: []
@@ -15,8 +15,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-05-07-this-is-a-portfolio-site-for-tim-nafziger-featuring-his-work.md
+starred: true
 url: this-is-a-portfolio-site-for-tim-nafziger-featuring-his-work/index.html
 _type: Article
 
