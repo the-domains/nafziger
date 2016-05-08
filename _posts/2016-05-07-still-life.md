@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Still Lifes
-datePublished: '2016-05-08T00:00:51.451Z'
-dateModified: '2016-05-07T23:59:21.973Z'
+datePublished: '2016-05-08T00:02:20.312Z'
+dateModified: '2016-05-08T00:01:02.659Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-07-still-life.md
