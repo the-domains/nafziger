@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Still Lifes
-datePublished: '2016-05-08T00:18:45.765Z'
-dateModified: '2016-05-08T00:16:24.158Z'
+datePublished: '2016-05-08T00:19:55.587Z'
+dateModified: '2016-05-08T00:18:55.093Z'
 title: Strawberries in a Market in Athens
 author:
   - name: Tim Nafziger
