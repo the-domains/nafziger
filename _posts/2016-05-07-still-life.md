@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Still Lifes
-datePublished: '2016-05-08T00:02:20.312Z'
-dateModified: '2016-05-08T00:01:02.659Z'
+datePublished: '2016-05-08T00:03:41.585Z'
+dateModified: '2016-05-08T00:03:27.312Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-07-still-life.md
@@ -27,5 +27,3 @@ Still Lifes
 Root Crops at the Iowa State Fair 2013
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d548b7be-bd8b-4c2d-a986-268d96e2b577.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf520a72-a757-4427-8f49-d382b9d20872.jpg)
-
-Strawberries in a Market in Athens
